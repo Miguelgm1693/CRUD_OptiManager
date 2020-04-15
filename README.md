@@ -28,9 +28,13 @@ Tanto la tabla _cliente_ como la de _producto_ están relacionadas con la de _op
 
 ## Página Principal y Login ##
 
+![](imagenes/1.jpg)
+
 Lo primero que no vamos a encontrar al iniciar la aplicación, es una página de inicio bastante sencilla, en la que nos permite directamente a través de un formulario introducir los datos de usuario y contraseña para _Acceder_ a la aplicación. Encontraremos también con letra azul y subrayada para poder clickear _Crear Cuenta_.
 
 ## Crear Cuenta / Registro ##
+
+![](imagenes/2.jpg)
 
 La ventana a la que nos redirige si pulsamos en_Crear Cuenta_, es un formulario en el que nos pedirá un Nombre de Usuario y una Contraseña. También nos aparece un _¿Eres usuario?_ para en el caso de que ya tengamos cuenta, podamos volver atrás.
 
@@ -38,11 +42,15 @@ Tras hacer click en _Registrarse_, se habrá creado un nuevo usuario en la base 
 
 ## Menú ##
 
+![](imagenes/3.jpg)
+
 Tras acceder a la aplicación con un usuario y contraseña, nos redirigirá a un menú en el que aparecerán dos botones para seleccionar, uno el botón de _**Listado Clientes**_ y otro botón con _**Listado Productos**_. Más abajo nos aparece en letras azul y subrayado para cerrar la sesión del usuario con el que hemos iniciado.
 
 En la parte de arriba del menú, también nos aparece un mensaje de _"HAS INICIADO SESIÓN CON + Nombre Usuario"_ para saber con la cuenta que hemos accedido o en la cuenta que estamos.
 
 ## Listados Clientes / Productos ##
+
+![](imagenes/13.jpg)   ![](imagenes/14.jpg)
 
 Al hacer click en cualquiera de los dos botones del menú, nos redirigirá a una ventana en la que nos aparecerá un listado completo con todos los productos y clientes que hayamos agregado (en el caso de que seamos usuario nuevo, la lista estará vacía). 
 
