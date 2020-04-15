@@ -28,7 +28,7 @@ Tanto la tabla _cliente_ como la de _producto_ están relacionadas con la de _op
 
 ## Página Principal y Login ##
 
-![](imagenes/1.jpg = 400x400)
+![](imagenes/1.jpg =400x400)
 
 Lo primero que no vamos a encontrar al iniciar la aplicación, es una página de inicio bastante sencilla, en la que nos permite directamente a través de un formulario introducir los datos de usuario y contraseña para _Acceder_ a la aplicación. Encontraremos también con letra azul y subrayada para poder clickear _Crear Cuenta_.
 
