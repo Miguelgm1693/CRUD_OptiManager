@@ -18,6 +18,8 @@ En esta aplicación no vamos a encontrar un administrador, directamente creamos 
 
 ## Base de datos de la Aplicación ##
 
+![](imagenes/12.jpg)
+
 Base de datos con relaciones 1:N en la cuál nos podemos encontrar con 3 tablas. Tabla _optica_(usuarios), tabla _cliente_ (clientes que vamos agregando a la óptica) y por último la tabla _producto_ (almacenará los productos de la óptica).
 
 En todas ellas, la PK va a ir incrementandose, es decir, si añadimos un primer cliente, ese cliente tendrá el código nº1 y así de manera creciente cada vez que añadimos uno nuevo (nunca se van a repetir).
