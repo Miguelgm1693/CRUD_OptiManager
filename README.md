@@ -16,6 +16,8 @@ El usuario "Optica" lo vamos a encontrar con datos introducidos, mientras que el
 
 En esta aplicación no vamos a encontrar un administrador, directamente creamos un usuario y este usuario se va a encargar de realizar todas las acciones de dicha óptica. 
 
+**Vídeo explicativo de aplicación OptiManager:** https://www.youtube.com/watch?v=QptJ5ecbRyo 
+
 ## Base de datos de la Aplicación ##
 
 ![](imagenes/12.jpg)
