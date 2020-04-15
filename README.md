@@ -28,7 +28,7 @@ Tanto la tabla _cliente_ como la de _producto_ están relacionadas con la de _op
 
 ## Página Principal y Login ##
 
-![](imagenes/1.jpg =400x400)
+![](imagenes/1.jpg)
 
 Lo primero que no vamos a encontrar al iniciar la aplicación, es una página de inicio bastante sencilla, en la que nos permite directamente a través de un formulario introducir los datos de usuario y contraseña para _Acceder_ a la aplicación. Encontraremos también con letra azul y subrayada para poder clickear _Crear Cuenta_.
 
@@ -59,6 +59,8 @@ En ambas listas, nos vamos a encontrar con dos botones en la parte superior dere
 Si tenemos clientes y productos introducidos, nos aparecerá en el apartado acciones un botón con un lápiz para poder editar dicho cliente o producto y en el otro una papelera para poder borrarlos.
 
 ## Añadir / Editar ##
+
+![](imagenes/10.jpg) ![](imagenes/11.jpg)
 
 Tanto la ventana añadir como editar, son completamente iguales aunque cada una de ellas tiene su función.
 En la 
