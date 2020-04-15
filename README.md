@@ -60,7 +60,7 @@ Si tenemos clientes y productos introducidos, nos aparecerá en el apartado acci
 
 ## Añadir / Editar ##
 
-![](imagenes/10.jpg) ![](imagenes/11.jpg)
+![](imagenes/10.jpg) ![](imagenes/9.jpg)
 
-Tanto la ventana añadir como editar, son completamente iguales aunque cada una de ellas tiene su función.
-En la 
+Tanto la ventana añadir como editar, son completamente iguales aunque cada una de ellas tiene una función diferente que es, básicamente añadir un cliente o producto a la lista ó editar dicho cliente o producto ya creados.
+
